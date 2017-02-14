@@ -6,22 +6,24 @@
 		<h4>This document is daily learing note about Seleium crawler with python </h4>
 		<p>Under order is this document's default format</p>
 		<ol>
-			<li>1. file name</li>
-			<li>2. requirement message</li>
+			<li> file name</li>
+			<li> requirement message</li>
 		</ol>
 		<hr>
 		<ol>
-			<li>1. crawling_script_0214.py</li>
-			<li>2. Setting the Seleium crawler's development environment.</li>
+			<li> crawling_script_0214.py</li>
+			<li> Setting the Seleium crawler's development environment.</li>
 			<ol>
 				<li>
 					<h3>Install Seleium package.</h3>
-					<p> My work is based on MacOS, Python. And i use Sublime Text2.
-					Anyway, you can download Python setup file under python official site and you can see proper setup file to your OS. usually I use python 2.x version <br> - https://www.python.org/downloads/</p>
+					<p> My development environment : MacOS, Python2, Sublime Text2.,<br>
+					If you didn't install Python, you have to download setup file under an official site. you can find out proper setup file to your OS.<br>  https://www.python.org/downloads/</p>
 				</li>
 				<li>
 					<h3>Install Seleium package.</h3>
-					<cite>Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.</cite><p>by http://www.seleniumhq.org/</p>
+					<!-- <cite>Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.</cite> -->
+					> Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.
+					<p>by http://www.seleniumhq.org/</p>
 					<p>To install, write <code>pip install selenium</code> In command shell</p>
 					<p>If you want to check whether installed or not, write under some code. </p>
 					<code>python2</code> <br>
@@ -35,8 +37,8 @@
 					<h4>In this documentation, i use chrome and ChromeDriver of Seleium WebDriver. Under lists, You can read how to use Webdriver for Chrome and download chromedriver. In my case, i downloaded chromedriver version 2.24 </h4>
 					<p> - Reference link - </p>
 					<ul>
-						<ol>https://sites.google.com/a/chromium.org/chromedriver/getting-started</ol>
-						<ol>http://chromedriver.storage.googleapis.com/index.html</ol>
+						<ol>* https://sites.google.com/a/chromium.org/chromedriver/getting-started</ol>
+						<ol>* http://chromedriver.storage.googleapis.com/index.html</ol>
 					</ul>
 					<h4>If you finish to install and download, you unzip chromedriver.zip and move to proper folder and remember the folder path because it's necessary to set the Webdriver file path in script.</h4>
 				</li>
