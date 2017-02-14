@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 	<head>
 		<title>Selenium Crawling with Python Learning Notes</title>
 	</head>
