@@ -28,7 +28,7 @@
 				</li>
 				<li>
 					<h3>Install Seleium WebDriver.</h3>
-					<p>Seleium WebDriver is a bridge between OS and Web Browser. If you want to use Seleium WebDriver, you have to choose a right version both OS and Web Browser.</p>
+					<p>Seleium WebDriver is a bridge between OS and Web Browser. If you want to use Seleium WebDriver, you have to download a right version both OS and Web Browser.</p>
 					<cite>The biggest change in Selenium recently has been the inclusion of the WebDriver API.Driving a browser natively as a user would either locally or on a remote machine using the Selenium Server it marks a leap forward in terms of browser automation.</cite><p>by http://www.seleniumhq.org/projects/webdriver/</p>
 					<h4>In this documentation, i use chrome and ChromeDriver of Seleium WebDriver. Under lists, You can read how to use Webdriver for Chrome and download chromedriver. In my case, i downloaded chromedriver version 2.24 </h4>
 					<p> - Reference link - </p>
