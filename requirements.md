@@ -1,7 +1,4 @@
 <html>
-	<head>
-		<title>daily learing note about Seleium crawler with python</title>
-	</head>
 	<body>
 		<h4>This document is daily learing note about Seleium crawler with python </h4>
 		<p>Under order is this document's default format</p>
@@ -21,8 +18,7 @@
 				</li>
 				<li>
 					<h3>Install Seleium package.</h3>
-					<!-- <cite>Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.</cite> -->
-					> Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.
+					<cite>Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.</cite>
 					<p>by http://www.seleniumhq.org/</p>
 					<p>To install, write <code>pip install selenium</code> In command shell</p>
 					<p>If you want to check whether installed or not, write under some code. </p>
@@ -37,8 +33,8 @@
 					<h4>In this documentation, i use chrome and ChromeDriver of Seleium WebDriver. Under lists, You can read how to use Webdriver for Chrome and download chromedriver. In my case, i downloaded chromedriver version 2.24 </h4>
 					<p> - Reference link - </p>
 					<ul>
-						<ol>* https://sites.google.com/a/chromium.org/chromedriver/getting-started</ol>
-						<ol>* http://chromedriver.storage.googleapis.com/index.html</ol>
+						<ol> Link : https://sites.google.com/a/chromium.org/chromedriver/getting-started</ol>
+						<ol> Link : http://chromedriver.storage.googleapis.com/index.html</ol>
 					</ul>
 					<h4>If you finish to install and download, you unzip chromedriver.zip and move to proper folder and remember the folder path because it's necessary to set the Webdriver file path in script.</h4>
 				</li>
